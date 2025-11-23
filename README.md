@@ -21,6 +21,14 @@ Used for:
 
 ---
 
+- ### 👤 Customers Table Preview
+
+This shows a portion of the customer dataset, including full name, gender, age and location:
+
+![customers table3](https://github.com/user-attachments/assets/a248f2e8-82d2-4921-b960-bd2a29de6c21)
+
+---
+
 ### 📱 `app_usage`
 Represents individual app events.  
 Each row is a user action such as login, transfer, bill payment or recharge, along with a timestamp and optional monetary amount.
@@ -35,6 +43,14 @@ Used for:
 
 ---
 
+### 📱 App Usage Events (Sample Data)
+
+Below is a sample of recorded in-app events such as logins, transfers and bill payments, including timestamps and transaction amounts:
+
+![app_usage table3](https://github.com/user-attachments/assets/70288938-f71f-4a81-8597-d6d7c0ebc76f)
+
+---
+
 ### 📝 `survey`
 Represents user sentiment and perception of the product.  
 Includes 1–5 ratings for awareness, ease-of-use, security feeling, and recommendations, plus a switching indicator if the user switched due to advertisements.
@@ -44,6 +60,13 @@ Used for:
 - linking sentiment to behavior  
 - conversion influenced by ads  
 - trust and satisfaction analysis  
+---
+
+### 📝 Survey Responses (Sample Data)
+
+This table captures user perception data, including Likert-scale ratings for awareness, usability, trust and switching behaviour:
+
+![survey table 3](https://github.com/user-attachments/assets/3f93c8c7-d207-4a91-a268-d8bffa6d2c56)
 
 ---
 
